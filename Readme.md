@@ -14,12 +14,10 @@ http://schemas.microsoft.com/ws/2008/06/identity/claims/role
 
 C:\Program Files\Common Files\Microsoft Shared\web server extensions\{ver}\TEMPLATE\LAYOUTS\
 
-* {ver} should be replaced as below.
- 14 for SPS2010
-
- 15 for SPS2013
-
- 16 for SPS2016
+{ver} should be replaced as below.
+ * 14 for SPS2010
+ * 15 for SPS2013
+ * 16 for SPS2016
 
 2. Navigate to the deployed page such as following.
 
